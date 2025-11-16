@@ -18,21 +18,12 @@ This portfolio serves as my digital identity—demonstrating who I am, what I do
 
 ## 🧩 Tech Stack
 
-- **HTML5**  
-- **CSS3**  
-- **JavaScript (ES6+)**  
+- Backend development(Node.js,Express.js)
+- Mobile App Development
+- HTML5  
+- CSS3 
+- JavaScript (ES6+)  
 - Google Fonts  
 - Responsive Grid & Flexbox
 
----
-
-## 📁 Project Structure
-
-portfolio/
-│
-├── index.html # Homepage
-├── style.css # Styling & layout
-├── script.js # JavaScript interactions
-├── images/ # Images and project thumbnails
-└── README.md # Documentation
 
